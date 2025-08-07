@@ -1,6 +1,0 @@
-DevTools listening on ws://127.0.0.1:53714/devtools/browser/8be79654-b5fd-4163-be6e-c96396fb9879
-WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
-I0000 00:00:1754524982.210303   59580 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
-Created TensorFlow Lite XNNPACK delegate for CPU.
-Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
-<redacted accessToken>
